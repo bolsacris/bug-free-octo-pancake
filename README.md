@@ -3,6 +3,9 @@
 ## Giftscop
 https://giftscop.com/
 
+## Ship of Harkinian
+https://github.com/HarbourMasters/Shipwright
+
 ## Sonic 3 A.I.R.
 https://sonic3air.org/
 
