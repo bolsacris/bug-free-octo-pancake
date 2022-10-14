@@ -3,6 +3,12 @@
 ## Giftscop
 https://giftscop.com/
 
+## OpenRCT2
+https://openrct2.org/
+
+## OpenTTD
+https://www.openttd.org/
+
 ## Ship of Harkinian
 https://github.com/HarbourMasters/Shipwright
 
